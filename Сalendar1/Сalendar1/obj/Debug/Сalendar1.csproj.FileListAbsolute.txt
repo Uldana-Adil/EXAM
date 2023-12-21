@@ -1,0 +1,7 @@
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\bin\Debug\Сalendar1.exe.config
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\bin\Debug\Сalendar1.exe
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\bin\Debug\Сalendar1.pdb
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\obj\Debug\Сalendar1.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\obj\Debug\Сalendar1.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\obj\Debug\Сalendar1.exe
+C:\Users\laptop\source\repos\Сalendar1\Сalendar1\obj\Debug\Сalendar1.pdb
